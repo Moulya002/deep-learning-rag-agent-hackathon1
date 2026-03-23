@@ -727,4 +727,4 @@ history and document list in `st.session_state`.
 Create it manually — see Step 5 of Pipeline Engineer setup above.
 Once `VectorStoreManager._initialise()` is implemented, it will
 create this directory automatically on startup.
-# deep-learning-rag-agent-main-2
+# deep-learning-rag-agent-main-hackathon1
